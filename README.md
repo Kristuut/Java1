@@ -7,7 +7,7 @@
 На тестирование затрачено: 15 минут.
 
 В результате тестирования выявлены следующие дефекты:
-* [Невалидный ключ](https://github.com/Kristuut/Java1/issues/1) 
+* [Валидный ключ FAIL, а не ОК](https://github.com/Kristuut/Java1/issues/1) 
 * [Валидный ключ - FAIL](https://github.com/Kristuut/Java1/issues/2)
 * [Невалидный ключ ОК](https://github.com/Kristuut/Java1/issues/3)
 
